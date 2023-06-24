@@ -10,7 +10,7 @@ public class Hello {
 	
 	private static int add(int one,int two) {
 		int sum=one+two;
-		sum=70;
+		sum=799;
 		return sum;
 	}
 }
